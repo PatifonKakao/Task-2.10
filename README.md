@@ -1,3 +1,4 @@
-# Task-2.10
-#Autor: Sinitsyn Vladimir
-#Group: 3441101/90101
+Task-2.10
+===============================
+This program implements parallel execution of some transformation over vectors.
+
